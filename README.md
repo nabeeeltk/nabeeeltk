@@ -1,7 +1,6 @@
 ### Hi there 👋 I'm Muhammed Nabeel Tk
 
 "https://drive.google.com/file/d/1my55prHlR_tPLX32kLc7PZAOw--Rpl4r/view?usp=sharing"
-**nabeeeltk/nabeeeltk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 "👋 Hey there! I'm Muhammed Nabeel Tk, an enthusiastic Flutter developer with a passion for creating beautiful and performant mobile applications. 💻📱
 
