@@ -1,7 +1,7 @@
 ### Hi there 👋 I'm Muhammed Nabeel Tk
 
 
-![dfghjk]("[White and Gray Minimalist Personal LinkedIn Banner.png](https://github.com/nabeeeltk/nabeeeltk/blob/main/White%20and%20Gray%20Minimalist%20Personal%20LinkedIn%20Banner.png)")
+(https://github.com/nabeeeltk/nabeeeltk/blob/main/White%20and%20Gray%20Minimalist%20Personal%20LinkedIn%20Banner.png)
 
 "👋 Hey there! I'm Muhammed Nabeel Tk, an enthusiastic Flutter developer with a passion for creating beautiful and performant mobile applications. 💻📱
 
