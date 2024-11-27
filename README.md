@@ -1,21 +1,31 @@
-### Hi there 👋 I'm Muhammed Nabeel Tk
+![MasterHead](https://img.freepik.com/free-vector/app-development-banner_33099-1720.jpg)]
+<h1 align="center">Hi 👋, I'm Muhammed Nabeel Tk</h1>
+<h3 align="center">A passionate Flutter developer</h3>
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/116207…”>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=nabeeeltk&label=Profile%20views&color=0e75b6&style=flat" alt="nabeeeltk" /> </p>
 
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nabeeeltk" alt="nabeeeltk" /></a> </p>
 
-![Python developer | django + react](https://github.com/nabeeeltk/nabeeeltk/blob/main/White%20and%20Gray%20Minimalist%20Personal%20LinkedIn%20Banner.png)
+<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-"👋 Hey there! I'm Muhammed Nabeel Tk, an enthusiastic Flutter developer with a passion for creating beautiful and performant mobile applications. 💻📱
+- 👨‍💻 All of my projects are available at [https://nabeeeltk.netlify.app/](https://nabeeeltk.netlify.app/)
 
-🔧 I specialize in developing apps using the Flutter framework, which allows me to build applications that run seamlessly on both iOS and Android platforms. With my expertise in Flutter, I can craft engaging user interfaces, implement complex functionality, and optimize app performance for a delightful user experience.
+- 💬 Ask me about **Mobile Application Development**
 
-🌟 My skills extend beyond Flutter, as I have a solid foundation in mobile app development principles, including proficiency in programming languages like Dart and proficiency in using Git for version control. I'm also well-versed in integrating APIs, handling state management, and working with various third-party packages and libraries to add additional functionality to the apps I build.
+- 📫 How to reach me **nabeelmuhammed406@gamil.com**
 
-💡 I am a strong believer in clean and maintainable code, adhering to best practices and design patterns to ensure scalability and ease of collaboration. I strive to stay up-to-date with the latest advancements in the Flutter ecosystem and constantly experiment with new features and techniques to deliver cutting-edge solutions.
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/muhammed-nabeel-bb237a258" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/muhammed-nabeel-bb237a258" height="30" width="40" /></a>
+<a href="https://instagram.com/https://instagram.com/____nabeel____2?igshid=yjk4nwm2zwvkmw==" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://instagram.com/____nabeel____2?igshid=yjk4nwm2zwvkmw==" height="30" width="40" /></a>
+</p>
 
-🤝 I thrive in collaborative environments and enjoy working closely with cross-functional teams, including designers and backend developers, to bring ideas to life. I value open communication, teamwork, and continuous learning, always seeking opportunities to grow both personally and professionally.
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> </p>
 
-📚 In addition to my technical skills, I have excellent problem-solving abilities and a keen eye for detail. I am committed to delivering high-quality results within project deadlines, prioritizing user satisfaction and ensuring smooth app performance across different devices and screen sizes.
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nabeeeltk&show_icons=true&locale=en&layout=compact" alt="nabeeeltk" /></p>
 
-🌍 I'm excited about the potential of Flutter and its ability to create stunning mobile experiences. I'm ready to take on new challenges, contribute to innovative projects, and make a positive impact in the world of mobile app development.
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nabeeeltk&show_icons=true&locale=en" alt="nabeeeltk" /></p>
 
-📩 Feel free to reach out if you're looking for a dedicated Flutter developer who can turn your ideas into reality. Let's build amazing apps together! 🚀".
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nabeeeltk&" alt="nabeeeltk" /></p>
 
