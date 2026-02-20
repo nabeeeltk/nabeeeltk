@@ -1,5 +1,11 @@
 <img src="https://constantsolutions.dk/static/36bd1da897de85f73cec268f82077646/8ccd0/banner.jpg" alt="Banner" />
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,100:434343&height=180&section=header&text=Muhammed%20Nabeel%20TK&fontSize=38&fontColor=ffffff" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=200&section=header&text=Muhammed%20Nabeel%20TK&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=35" />
+
+<h3 align="center">Flutter Developer | Cross-Platform Mobile App Specialist | React Enthusiast</h3>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=nabeeeltk&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
+</p>
 <h1 align="center">Hi 👋, I'm Muhammed Nabeel Tk</h1>
 <h3 align="center">Flutter Developer | Cross-Platform Mobile App Specialist | React Enthusiast</h3>
 
