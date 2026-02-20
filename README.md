@@ -15,7 +15,7 @@
   </a>
 </p>
 
-- 👨‍💻 Explore my projects: [https://nabeeeltk.netlify.app/](https://nabeeeltk.netlify.app/)
+- 👨‍💻 Explore my projects: [https://nabeeeltk.netlify.app/](https://nabeel-ecru.vercel.app/)
 - 💬 Ask me about **Mobile Application Development**
 - 📧 Reach me: **nabeelmuhammed406@gmail.com**
 
