@@ -1,5 +1,5 @@
 <img src="https://constantsolutions.dk/static/36bd1da897de85f73cec268f82077646/8ccd0/banner.jpg" alt="Banner" />
-
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,100:434343&height=180&section=header&text=Muhammed%20Nabeel%20TK&fontSize=38&fontColor=ffffff" />
 <h1 align="center">Hi 👋, I'm Muhammed Nabeel Tk</h1>
 <h3 align="center">Flutter Developer | Cross-Platform Mobile App Specialist | React Enthusiast</h3>
 
