@@ -1,4 +1,4 @@
-<img src="https://constantsolutions.dk/static/36bd1da897de85f73cec268f82077646/8ccd0/banner.jpg" alt="Banner" />
+<!-- <img src="https://constantsolutions.dk/static/36bd1da897de85f73cec268f82077646/8ccd0/banner.jpg" alt="Banner" /> -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=200&section=header&text=Muhammed%20Nabeel%20TK&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=35" />
 
 <h3 align="center">Flutter Developer | Cross-Platform Mobile App Specialist | React Enthusiast</h3>
